@@ -1,0 +1,1 @@
+If the symbol is there but it doesn't work, check your BIOS, you'll have an option to enable usb power delivery. You can enter the BIOS only during startup (before you see the windows icon) by pressing a key specific to your system manufacturer. It's usually one amongst the function keys or DEL key in some cases. You'll have more information in your instruction manual.
